@@ -7,8 +7,9 @@
         "default_popup": "index.html"
     },
     "icons": {
-        "16": "./logo.png",
-        "48": "./logo.png",
-        "128": "./logo.png"
+        "16": "./logo1.png",
+        "48": "./logo1.png",
+        "64": "./logo1.png",
+        "128": "./logo1.png"
     }
 }
