@@ -27,7 +27,20 @@ const links = [
     "https://cdn.broadbandsearch.net/images/blogs/most-popular-internet-memes-in-history/success-baby-spaghetti.jpg",
     "https://cdn.broadbandsearch.net/images/blogs/most-popular-internet-memes-in-history/most-interesting-man-facebook-comments.jpg",
     "https://cdn.broadbandsearch.net/images/blogs/most-popular-internet-memes-in-history/scumbag-steve.jpg",
-
+    "https://i.imgflip.com/63jjil.jpg",
+    "https://i.imgflip.com/63jwig.jpg",
+    "https://i.imgflip.com/63jnux.jpg",
+    "https://i.imgflip.com/63dm2n.jpg",
+    "https://i.imgflip.com/63ewul.jpg",
+    "https://i.imgflip.com/63lu9v.jpg",
+    "https://i.imgflip.com/63ivlu.jpg",
+    "https://i.imgflip.com/63e0u8.jpg",
+    "https://i.imgflip.com/63jm5p.jpg",
+    "https://i.imgflip.com/63camn.jpg",
+    "https://i.imgflip.com/6389ox.jpg",
+    "https://i.imgflip.com/63nffk.jpg",
+    "https://i.imgflip.com/63ndgd.jpg",
+    "https://i.imgflip.com/63c0ll.jpg",
 
 ];
 const random = document.getElementById("random");
