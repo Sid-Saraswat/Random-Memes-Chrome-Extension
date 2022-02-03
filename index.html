@@ -10,14 +10,19 @@
     <title>Random Meme</title>
 </head>
 <style>
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+
     .img1 {
         height: 30rem;
         width: 49rem;
-        border-radius: 6%;
+        border-radius: 2%;
     }
 
     .img2 {
-        width: 6%;
+        width: 7%;
     }
 
     .div1 {
@@ -25,16 +30,20 @@
         align-items: center;
         justify-content: center;
     }
+
+    .main {
+        background-color: bisque
+    }
 </style>
 
 <body>
-    <div>
+    <div class="main">
         <div class="container div1 my-1">
-            <img class="img2" src="./logo.png" alt="logo">
+            <img class="img2" src="./logo1.png" alt="logo">
             <h1 class="div1">Random-Meme</h1>
         </div>
 
-        <img id="random" src="" alt="Random-Meme" class="img1">
+        <img id="random" src="" alt="Random-Meme" class="img1 mx-1">
         <div class="container div1 my-1">
             <button id="nextt" type="button" class="btn btn-outline-success">Next</button>
         </div>
